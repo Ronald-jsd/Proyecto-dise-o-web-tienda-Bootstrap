@@ -17,8 +17,7 @@ h2 {
 }
 
 .navbar-overlay {
-    height: 66.3px;
-    height: 11vh;
+    height: 5.6em
 }
 
 .navbar {
@@ -71,6 +70,11 @@ h2 {
 }
 
 /* CAROUSEL */
+.carousel {
+    margin-top: 0;
+    padding-top: 0;
+}
+
 .carousel-item img {
     max-height: 650px;
     width: 100%;
